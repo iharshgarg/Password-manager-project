@@ -1,15 +1,8 @@
-# Password-manager-project
-PassMan - Your Password Manager
+# React + Vite
 
-How to run:
-First install node modules in the outer(front-end) folder and backend folder by command: "npm install"
-then you have to start your mongodb server.
-then you can start you backend by "node backend/server.js"
-and also start frontend server by "npm run dev"
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-More info:
-This frontend is based on Vite+React
-You will be using mongodb for storing data to backend
-All devices connected to the frontend will be accessing the same database, so the same entries will be accessible to all devices.
-Backend is running on express.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
