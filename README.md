@@ -12,4 +12,6 @@ More info:
 This frontend is based on Vite+React and uses Tailwind CSS  
 You will be using mongodb for storing data to backend  
 All devices connected to the frontend will be accessing the same database, so the same entries will be accessible to all devices.  
-Backend is running on express.  
+Backend is running on express.    
+
+Video link: https://www.linkedin.com/posts/iharshgarg_mern-passwordmanager-project-activity-7204104345787752448-hTlt?utm_source=share&utm_medium=member_desktop
